@@ -6,12 +6,46 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Cube
+    100004: Ground
+    100006: Player_scale
+    100008: Wall_back
+    100010: Wall_Doors
+    100012: Wall_Front_Door
+    100014: Wall_Windows
     400000: //RootNode
+    400002: Cube
+    400004: Ground
+    400006: Player_scale
+    400008: Wall_back
+    400010: Wall_Doors
+    400012: Wall_Front_Door
+    400014: Wall_Windows
     2300000: //RootNode
+    2300002: Cube
+    2300004: Ground
+    2300006: Player_scale
+    2300008: Wall_back
+    2300010: Wall_Doors
+    2300012: Wall_Front_Door
+    2300014: Wall_Windows
     3300000: //RootNode
+    3300002: Cube
+    3300004: Ground
+    3300006: Player_scale
+    3300008: Wall_back
+    3300010: Wall_Doors
+    3300012: Wall_Front_Door
+    3300014: Wall_Windows
     4300000: Cube
     4300002: blender_cube
     4300004: Plane
+    4300006: Player_scale
+    4300008: Ground
+    4300010: Wall_back
+    4300012: Wall_Doors
+    4300014: Wall_Front_Door
+    4300016: Wall_Windows
     7400000: Default Take
     9500000: //RootNode
   materials:
